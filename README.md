@@ -1,4 +1,4 @@
-# 🌟 Healix — Digital Mental Health & Psychological Support System
+#  Healix — Digital Mental Health & Psychological Support System
 
 Healix is a comprehensive full-stack platform designed to provide accessible mental health support for students in higher education. It connects students with counselors, offers AI-assisted support, and streamlines appointment management through role-based dashboards.
 
@@ -42,7 +42,7 @@ Healix is a comprehensive full-stack platform designed to provide accessible men
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone <https://github.com/harish-3558/Healix.git>
 cd healix
 ```
 
@@ -105,5 +105,3 @@ Configure `SMTP_HOST`, `SMTP_PORT`, `SMTP_SECURE`, `SMTP_USER`, `SMTP_PASSWORD`,
    - Log in to share your thoughts, like posts, and leave comments.
    - All activity is anonymous — your identity is never revealed.
 
-## 📄 License
-This project is licensed under the ISC License.
