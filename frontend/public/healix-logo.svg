@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="72" viewBox="0 0 280 72" fill="none">
+  <defs>
+    <linearGradient id="healix-mark" x1="8" y1="9" x2="60" y2="63" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#74D6D2"/>
+      <stop offset="1" stop-color="#65A8E8"/>
+    </linearGradient>
+  </defs>
+  <path d="M43 8a28 28 0 1 0 21 46A25 25 0 1 1 43 8Z" fill="url(#healix-mark)"/>
+  <path d="m54 9 2.2 5.8L62 17l-5.8 2.2L54 25l-2.2-5.8L46 17l5.8-2.2L54 9Z" fill="#83B8EE"/>
+  <text x="76" y="48" fill="#26374A" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-style="italic" letter-spacing="-1">Healix</text>
+</svg>
